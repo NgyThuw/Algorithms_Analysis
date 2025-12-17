@@ -1,0 +1,17 @@
+﻿  demo_lcs_basic.cpp
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_basic.cpp(25,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_basic.cpp(26,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  demo_lcs_optimize.cpp
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_optimize.cpp(22,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_optimize.cpp(23,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  demo_lcs_real_life.cpp
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_real_life.cpp(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_real_life.cpp(13,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_real_life.cpp(41,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_real_life.cpp(41,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  demo_lcs_visual.cpp
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_visual.cpp(23,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\QuyHoachDong\demo_lcs_visual.cpp(24,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  QuyHoachDong.cpp
+  Generating Code...
+  QuyHoachDong.vcxproj -> D:\Documents\HK1_25-26\PTTKTT\DemoPTTKTT\DemoPTTKTT\QuyHoachDong\x64\Debug\QuyHoachDong.exe
